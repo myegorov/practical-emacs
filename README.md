@@ -11,4 +11,5 @@ book, occasionally paying attention to
 Contents
 ===
 
-- [Tip 1: Repeat the last change](https://gist.github.com/d8961ccfcb4d2446239a0338adaf64d7), as in `vim`'s dot (`.`) command.
+- [Tip 1: Repeat the last change](https://gist.github.com/9c7088428031225c023980198dc06b58), as in `vim`'s dot (`.`) command
+- [Tip 2: Edit a series of lines at line start-middle-end](https://gist.github.com/7c2521ea993985e1499c0390646886f5)
